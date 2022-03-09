@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Gaurav&#39;s Blog</title>
+    <link>https://malikgaurav626.github.io/tags/development/</link>
+    <description>Recent content in development on Gaurav&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://malikgaurav626.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://malikgaurav626.github.io/posts/firstpost/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://malikgaurav626.github.io/posts/firstpost/</guid>
+      <description>Hi guys this is my first post ever and I will be documenting my journey as a Software and Hardware Engineer. So, yeah see y&amp;rsquo;all soon. And I hope We&amp;rsquo;re All gonna make it brah.</description>
+    </item>
+    
+  </channel>
+</rss>
