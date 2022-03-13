@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://malikgaurav626.github.io/cn/tags/beginning/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://malikgaurav626.github.io/tags/beginning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://malikgaurav626.github.io/cn/tags/beginning/"
-                />
-  </url><url>
     <loc>https://malikgaurav626.github.io/cn/categories/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +16,7 @@
                 />
   </url><url>
     <loc>https://malikgaurav626.github.io/cn/tags/cs/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +29,7 @@
                 />
   </url><url>
     <loc>https://malikgaurav626.github.io/cn/tags/development/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,6 +39,110 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://malikgaurav626.github.io/cn/tags/development/"
+                />
+  </url><url>
+    <loc>https://malikgaurav626.github.io/cn/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://malikgaurav626.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://malikgaurav626.github.io/cn/"
+                />
+  </url><url>
+    <loc>https://malikgaurav626.github.io/cn/tags/life/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://malikgaurav626.github.io/tags/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://malikgaurav626.github.io/cn/tags/life/"
+                />
+  </url><url>
+    <loc>https://malikgaurav626.github.io/cn/posts/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://malikgaurav626.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://malikgaurav626.github.io/cn/posts/"
+                />
+  </url><url>
+    <loc>https://malikgaurav626.github.io/cn/tags/progress/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://malikgaurav626.github.io/tags/progress/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://malikgaurav626.github.io/cn/tags/progress/"
+                />
+  </url><url>
+    <loc>https://malikgaurav626.github.io/cn/tags/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://malikgaurav626.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://malikgaurav626.github.io/cn/tags/"
+                />
+  </url><url>
+    <loc>https://malikgaurav626.github.io/cn/categories/task/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://malikgaurav626.github.io/categories/task/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://malikgaurav626.github.io/cn/categories/task/"
+                />
+  </url><url>
+    <loc>https://malikgaurav626.github.io/cn/posts/weeklyupdate/</loc>
+    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://malikgaurav626.github.io/posts/weeklyupdate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://malikgaurav626.github.io/cn/posts/weeklyupdate/"
+                />
+  </url><url>
+    <loc>https://malikgaurav626.github.io/cn/tags/beginning/</loc>
+    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://malikgaurav626.github.io/tags/beginning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://malikgaurav626.github.io/cn/tags/beginning/"
                 />
   </url><url>
     <loc>https://malikgaurav626.github.io/cn/posts/firstpost/</loc>
@@ -67,32 +158,6 @@
                 href="https://malikgaurav626.github.io/cn/posts/firstpost/"
                 />
   </url><url>
-    <loc>https://malikgaurav626.github.io/cn/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://malikgaurav626.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://malikgaurav626.github.io/cn/"
-                />
-  </url><url>
-    <loc>https://malikgaurav626.github.io/cn/tags/life/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://malikgaurav626.github.io/tags/life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://malikgaurav626.github.io/cn/tags/life/"
-                />
-  </url><url>
     <loc>https://malikgaurav626.github.io/cn/posts/makingmyblogsite/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -106,32 +171,6 @@
                 href="https://malikgaurav626.github.io/cn/posts/makingmyblogsite/"
                 />
   </url><url>
-    <loc>https://malikgaurav626.github.io/cn/posts/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://malikgaurav626.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://malikgaurav626.github.io/cn/posts/"
-                />
-  </url><url>
-    <loc>https://malikgaurav626.github.io/cn/tags/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://malikgaurav626.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://malikgaurav626.github.io/cn/tags/"
-                />
-  </url><url>
     <loc>https://malikgaurav626.github.io/cn/tags/task/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -143,19 +182,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://malikgaurav626.github.io/cn/tags/task/"
-                />
-  </url><url>
-    <loc>https://malikgaurav626.github.io/cn/categories/task/</loc>
-    <lastmod>2022-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://malikgaurav626.github.io/categories/task/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://malikgaurav626.github.io/cn/categories/task/"
                 />
   </url><url>
     <loc>https://malikgaurav626.github.io/cn/categories/thoughts/</loc>

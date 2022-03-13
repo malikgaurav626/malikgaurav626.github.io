@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>task on Gaurav&#39;s Blog</title>
-    <link>https://malikgaurav626.github.io/cn/categories/task/</link>
-    <description>Recent content in task on Gaurav&#39;s Blog</description>
+    <title>progress on Gaurav&#39;s Blog</title>
+    <link>https://malikgaurav626.github.io/cn/tags/progress/</link>
+    <description>Recent content in progress on Gaurav&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://malikgaurav626.github.io/cn/categories/task/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://malikgaurav626.github.io/cn/tags/progress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>每周更新</title>
       <link>https://malikgaurav626.github.io/cn/posts/weeklyupdate/</link>
@@ -16,15 +16,6 @@
       <description>每周更新：
 下周要解决的问题：
  Watson asks Does Permutation Exist(https://www.codechef.com/problems/PERMEXIS)🔻 Chef and digits of a number(https://www.codechef.com/problems/LONGSEQ)🔻 Making a Meal(https://www.codechef.com/problems/CFMM)🔻 Jumping in the hills(https://www.codechef.com/problems/HILLS)🔻 New Piece(https://www.codechef.com/problems/NEWPIECE)🔻 Version Control System(https://www.codechef.com/problems/VCS)🔻 A Subtask Problem(https://www.codechef.com/problems/SUBTASK)🔻 Odd Repeat(https://www.codechef.com/problems/REPEAT)🔻  </description>
-    </item>
-    
-    <item>
-      <title>My Own Blog Site</title>
-      <link>https://malikgaurav626.github.io/cn/posts/makingmyblogsite/</link>
-      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://malikgaurav626.github.io/cn/posts/makingmyblogsite/</guid>
-      <description>我已经创建了我的第一个博客网站，我将尽快添加更多帖子 我想通了这一点。再见了。</description>
     </item>
     
   </channel>
