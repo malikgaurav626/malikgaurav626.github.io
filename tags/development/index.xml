@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://malikgaurav626.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Starting My first Project</title>
+      <link>https://malikgaurav626.github.io/posts/monthlyupdate/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://malikgaurav626.github.io/posts/monthlyupdate/</guid>
+      <description>April 2022:
+Face Detection using OpenCV:
+I will be starting my first every project using OpenCV and python and I will be making a face detection software, more information about the software will be added to the blog very soon. See Ya Around</description>
+    </item>
+    
+    <item>
       <title>Weekly Update</title>
       <link>https://malikgaurav626.github.io/posts/weeklyupdate/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
@@ -15,7 +26,7 @@
       <guid>https://malikgaurav626.github.io/posts/weeklyupdate/</guid>
       <description>Weekly Update:
 Problems to solve during next week:
- Watson asks Does Permutation Exist(https://www.codechef.com/problems/PERMEXIS)🔻 Chef and digits of a number(https://www.codechef.com/problems/LONGSEQ)🔻 Making a Meal(https://www.codechef.com/problems/CFMM)🔻 Jumping in the hills(https://www.codechef.com/problems/HILLS)🔻 New Piece(https://www.codechef.com/problems/NEWPIECE)🔻 Version Control System(https://www.codechef.com/problems/VCS)🔻 A Subtask Problem(https://www.codechef.com/problems/SUBTASK)🔻 Odd Repeat(https://www.codechef.com/problems/REPEAT)🔻  </description>
+ Watson asks Does Permutation Exist(https://www.codechef.com/problems/PERMEXIS)🟢 Chef and digits of a number(https://www.codechef.com/problems/LONGSEQ)🟢 Making a Meal(https://www.codechef.com/problems/CFMM)🟢 Jumping in the hills(https://www.codechef.com/problems/HILLS)🟢 New Piece(https://www.codechef.com/problems/NEWPIECE)🟢 Version Control System(https://www.codechef.com/problems/VCS)🟢 A Subtask Problem(https://www.codechef.com/problems/SUBTASK)🟢 Odd Repeat(https://www.codechef.com/problems/REPEAT)🟢  </description>
     </item>
     
     <item>
