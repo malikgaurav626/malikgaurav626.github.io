@@ -6,7 +6,18 @@
     <description>Recent content on Gaurav&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://malikgaurav626.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://malikgaurav626.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Spice Universe</title>
+      <link>https://malikgaurav626.github.io/posts/project-spiceuniverse/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://malikgaurav626.github.io/posts/project-spiceuniverse/</guid>
+      <description>My First Sem Project:
+Spice Universe is a text based Action-Adventure game. Enter in the Spice Universe and enjoy a small dose of reality escape from the day-to-day life. It&amp;rsquo;s got about 15-30 minutes of gameplay with immersive stories and 4 different classes to choose from. There are 4 different stats of enemies.
+For Extensive Review and To play the game Feel free to go to my github page.</description>
+    </item>
+    
     <item>
       <title>Starting My first Project</title>
       <link>https://malikgaurav626.github.io/posts/monthlyupdate/</link>
@@ -14,8 +25,8 @@
       
       <guid>https://malikgaurav626.github.io/posts/monthlyupdate/</guid>
       <description>April 2022:
-Face Detection using OpenCV:
-I will be starting my first every project using OpenCV and python and I will be making a face detection software, more information about the software will be added to the blog very soon. See Ya Around</description>
+A Text Based Action-Adventure Game:
+I will be starting my first every project using basic c++ and I will be making a text based game, more information about the software will be added to the blog very soon. See Ya Around</description>
     </item>
     
     <item>
